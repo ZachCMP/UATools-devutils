@@ -1,0 +1,23 @@
+{
+  "name": "uatools-devutils",
+  "version": "1.0.0",
+  "description": "Dev Utils for working with the UATools project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachCMP/UATools-devutils.git"
+  },
+  "author": "Zach Parks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachCMP/UATools-devutils/issues"
+  },
+  "homepage": "https://github.com/ZachCMP/UATools-devutils#readme",
+  "dependencies": {
+    "chance": "^1.0.18",
+    "mongoose": "^5.4.18"
+  }
+}
